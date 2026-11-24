@@ -1,0 +1,16 @@
+# Dependencies and build output
+node_modules/
+dist/
+build/
+*.log
+
+# Editor and OS clutter
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local run output (the grader writes /output/entry.txt itself)
+output/
+coverage/
+*.tgz
